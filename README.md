@@ -36,7 +36,9 @@
 ---
 
 ## 📱 Screenshots
-##Home Screen
+## Home Screen
+.
+<br>
 <img src="assets/screenshots/home_screen.png" width="300"/>
 
 
