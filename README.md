@@ -37,7 +37,7 @@
 
 ## 📱 Screenshots
 ##Home Screen
-<img src="assets/screenshots/reading.png" width="300"/>
+<img src="assets/screenshots/home_screen.png" width="300"/>
 
 
 | Reading Feedback | Listen & Type | Story Narration |
