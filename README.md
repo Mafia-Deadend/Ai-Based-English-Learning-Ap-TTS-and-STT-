@@ -36,12 +36,13 @@
 ---
 
 ## 📱 Screenshots
-
+##Home Screen
+![](assets/screenshots/home_screen.png)
 
 
 | Reading Feedback | Listen & Type | Story Narration |
 |------------------|---------------|-----------------|
-| ![](assets/screenshots/Reading.png) | ![](assets/screenshots/quiz.png) | ![](assets/screenshots/Listening.png) |
+| ![](assets/screenshots/Reading.png) | ![](assets/screenshots/quiz.png) | ![](assets/screenshots/listening.png) |
 
 
 
