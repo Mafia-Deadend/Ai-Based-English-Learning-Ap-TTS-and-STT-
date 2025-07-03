@@ -94,9 +94,8 @@ See [LICENSE](LICENSE) for more information.
 ## 👨‍💻 Author
 
 **Muhammad Hammad**
-Bachelor's Final Year Project – Dept. of Computer Science
-University of Peshawar
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile) (optional)
+
+[LinkedIn Profile](https://www.linkedin.com/in/-hammad-yousafzai) 
 
 ---
 
