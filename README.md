@@ -41,7 +41,7 @@
 
 | Reading Feedback | Listen & Type | Story Narration |
 |------------------|---------------|-----------------|
-| ![](assets/screenshots/read.png) | ![](assets/screenshots/type.png) | ![](assets/screenshots/listen.png) |
+| ![](assets/screenshots/Reading.png) | ![](assets/screenshots/quiz.png) | ![](assets/screenshots/Listening.png) |
 
 
 
