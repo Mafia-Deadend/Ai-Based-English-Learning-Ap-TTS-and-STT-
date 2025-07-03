@@ -1,8 +1,5 @@
 
 
----
-
-````
 # 📚 AI-Based Offline English Learning App
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)  
@@ -11,7 +8,7 @@
 
 > An interactive **offline mobile application** to help students practice English **reading, listening, and comprehension** skills — with real-time feedback, quizzes, and narration. Built using **Flutter**, **Text-to-Speech (TTS)**, and **Speech-to-Text (STT)** plugins.
 
----
+
 
 ## ✨ Features
 
@@ -46,7 +43,7 @@
 |------------------|---------------|-----------------|
 | ![](assets/screenshots/read.png) | ![](assets/screenshots/type.png) | ![](assets/screenshots/listen.png) |
 
----
+
 
 ## 🧱 Tech Stack
 
@@ -58,7 +55,7 @@
 | **Dart**        | App logic                    |
 | **AssetBundle** | Local story file handling    |
 
----
+
 
 ## 🛠️ How to Run
 
