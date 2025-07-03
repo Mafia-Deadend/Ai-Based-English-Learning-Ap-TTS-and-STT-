@@ -37,7 +37,7 @@
 
 ## 📱 Screenshots
 
-> *(You can upload screenshots to the `assets/screenshots` folder and display them below)*
+
 
 | Reading Feedback | Listen & Type | Story Narration |
 |------------------|---------------|-----------------|
