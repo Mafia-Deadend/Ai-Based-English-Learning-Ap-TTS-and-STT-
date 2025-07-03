@@ -60,8 +60,8 @@
 ## 🛠️ How to Run
 
 ```bash
-git clone https://github.com/your-username/english_tutor_ai.git
-cd english_tutor_ai
+https://github.com/Mafia-Deadend/Ai-Based-English-Learning-Ap-TTS-and-STT-.git
+cd Ai-Based-English-Learning-Ap-TTS-and-STT-
 flutter pub get
 flutter run
 ````
